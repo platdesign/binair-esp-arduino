@@ -1,0 +1,23 @@
+{
+  "name": "binair-esp-arduino",
+  "keywords": "ota, update",
+  "description": "ESP-Arduino library for BinAir",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/platdesign/binair-esp-arduino.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Christian Blaschke",
+      "email": "mail@platdesign.de",
+      "url": "http://platdesign.de",
+      "maintainer": true
+    }
+  ],
+  "dependencies": [],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": ["espressif8266"]
+}
