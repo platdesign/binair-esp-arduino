@@ -1,5 +1,5 @@
 {
-  "name": "binair-esp-arduino",
+  "name": "BinairESPArduino",
   "keywords": "ota, update",
   "description": "ESP-Arduino library for BinAir",
   "repository":
