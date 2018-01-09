@@ -4,9 +4,8 @@
 
 
 void setup() {
-  BINAIR("platdesign", "pdhue", "123", "uno", "3.0.2");
+  BINAIR("[vendor]", "[product]", "[token]", "[platform]", "[version]");
 }
-
 
 
 void loop() {
